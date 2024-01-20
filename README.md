@@ -1,9 +1,9 @@
 Inbox Project Directory
 
-contracts
-  -Inbox.sol
-test
-  -Inbox.test.js
-package.json
-compile.js
-deploy.js
+contracts__
+  -Inbox.sol__
+test__
+  -Inbox.test.js__
+package.json__
+compile.js__
+deploy.js__
